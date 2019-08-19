@@ -1,0 +1,10 @@
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Debug/BUIInputField.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Debug/BUIInputField.pdb
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Debug/UnityEditor.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Debug/UnityEditor.UI.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Debug/UnityEngine.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Debug/UnityEngine.UI.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/obj/Debug/BUIInputField.csproj.CoreCompileInputs.cache
+/Users/yutao/Projects/BUIInputField/BUIInputField/obj/Debug/BUIInputField.csproj.CopyComplete
+/Users/yutao/Projects/BUIInputField/BUIInputField/obj/Debug/BUIInputField.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/obj/Debug/BUIInputField.pdb

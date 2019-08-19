@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BUIInputField/MenuOptionOverwrite.cs">
+    <Files>
+      <File FileName="BUIInputField/BUIInputField.cs" Line="323" Column="32" />
+      <File FileName="BUIInputField/BUIInputFieldEditor.cs" Line="13" Column="37" />
+      <File FileName="BUIInputField/SetPropertyUtility.cs" Line="5" Column="25" />
+      <File FileName="BUIInputField/MenuOptionOverwrite.cs" Line="200" Column="61" />
+      <File FileName="BUIInputField/DefaultControlsOverwrite.cs" Line="447" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BUIInputField" expanded="True">
+            <Node name="BUIInputField" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="MenuOptionOverwrite.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

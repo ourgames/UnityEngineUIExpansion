@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnityEngineUIExpansion/BUIText.cs">
+    <Files>
+      <File FileName="UnityEngineUIExpansion/BUIText.cs" Line="22" Column="18" />
+      <File FileName="UnityEngineUIExpansion/DefaultControlsOverwrite.cs" Line="1" Column="1" />
+      <File FileName="UnityEngineUIExpansion/MenuOptionOverwrite.cs" Line="1" Column="1" />
+      <File FileName="UnityEngineUIExpansion/SetPropertyUtility.cs" Line="1" Column="1" />
+      <File FileName="UnityEngineUIExpansion/UIBaseExp.cs" Line="5" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityEngineUIExpansion" expanded="True">
+            <Node name="UnityEngineUIExpansion" expanded="True">
+              <Node name="BUIText.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>BUIInputField/UnityEngineUIExpansion.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="tao.yu" Email="441066277@qq.com" Copyright="91110107344278890P" Company="91110107344278890P" Trademark="91110107344278890P" />
+</Properties>

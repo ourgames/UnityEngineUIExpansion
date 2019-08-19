@@ -1,0 +1,17 @@
+/Users/yutao/Projects/BUIInputField/BUIInputField/obj/Release/UnityEngineUIExpansion.csproj.CoreCompileInputs.cache
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Release/UnityEngineUIExpansion.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Release/UnityEditor.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Release/UnityEditor.UI.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Release/UnityEngine.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/bin/Release/UnityEngine.UI.dll
+/Users/yutao/Projects/BUIInputField/BUIInputField/obj/Release/UnityEngineUIExpansion.csproj.CopyComplete
+/Users/yutao/Projects/BUIInputField/BUIInputField/obj/Release/UnityEngineUIExpansion.dll
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/bin/Release/UnityEngineUIExpansion.dll
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/bin/Release/UnityEditor.dll
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/bin/Release/UnityEditor.UI.dll
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/bin/Release/UnityEngine.dll
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/bin/Release/UnityEngine.UI.dll
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/obj/Release/UnityEngineUIExpansion.csprojAssemblyReference.cache
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/obj/Release/UnityEngineUIExpansion.csproj.CoreCompileInputs.cache
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/obj/Release/UnityEngineUIExpansion.csproj.CopyComplete
+/Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/obj/Release/UnityEngineUIExpansion.dll
