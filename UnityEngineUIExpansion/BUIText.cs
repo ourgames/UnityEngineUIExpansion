@@ -5,6 +5,7 @@ namespace UnityEngine.UI
     [AddComponentMenu("UI/BUI Text", 10)]
     public class BUIText : Text
     {
+        Action _onChangeCallback;
         public override string text
         {
             get
@@ -25,8 +26,22 @@ namespace UnityEngine.UI
                     m_Text = value;
                     SetVerticesDirty();
                     SetLayoutDirty();
+                    if (_onChangeCallback != null)
+                    {
+                        _onChangeCallback();
+                    }
                 }
             }
+        }
+
+        public void RegisterChangeCallback(Action action)
+        {
+            _onChangeCallback = action;
+        }
+
+        public void UnRegisterChangeCallback()
+        {
+            _onChangeCallback = null;
         }
     }
 
@@ -37,4 +52,6 @@ namespace UnityEngine.UI
             return UIBaseExp.A(_this.text);
         }
     }
+
+
 }
