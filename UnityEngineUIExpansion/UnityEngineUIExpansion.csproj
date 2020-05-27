@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BUIText.cs" />
+    <Compile Include="SpineAspectRatioFitter.cs" />
+    <Compile Include="SpineAspectRatioFitterEditor.cs" />
     <Compile Include="UIBaseExp.cs" />
     <Compile Include="DefaultControlsOverwrite.cs" />
     <Compile Include="MenuOptionOverwrite.cs" />
