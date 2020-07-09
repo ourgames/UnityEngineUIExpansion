@@ -17,7 +17,6 @@
 /Users/yutao/Projects/UnityEngineUIExpansion/UnityEngineUIExpansion/obj/Release/UnityEngineUIExpansion.dll
 C:\workspace\blitz\UnityEngineUIExpansion\UnityEngineUIExpansion\bin\Release\UnityEngineUIExpansion.dll
 C:\workspace\blitz\UnityEngineUIExpansion\UnityEngineUIExpansion\bin\Release\UnityEditor.dll
-C:\workspace\blitz\UnityEngineUIExpansion\UnityEngineUIExpansion\bin\Release\UnityEditor.UI.dll
 C:\workspace\blitz\UnityEngineUIExpansion\UnityEngineUIExpansion\bin\Release\UnityEngine.dll
 C:\workspace\blitz\UnityEngineUIExpansion\UnityEngineUIExpansion\bin\Release\UnityEngine.UI.dll
 C:\workspace\blitz\UnityEngineUIExpansion\UnityEngineUIExpansion\obj\Release\UnityEngineUIExpansion.csproj.CoreCompileInputs.cache

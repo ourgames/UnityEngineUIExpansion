@@ -27,24 +27,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="UnityEditor">
-      <HintPath>libs\UnityEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>libs\UnityEditor.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>libs\UnityEngine.dll</HintPath>
+      <HintPath>..\libs\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>libs\UnityEngine.UI.dll</HintPath>
+      <HintPath>..\libs\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ListPool.cs" />
+    <Compile Include="ObjectPool.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BUIText.cs" />
     <Compile Include="SpineAspectRatioFitter.cs" />
-    <Compile Include="SpineAspectRatioFitterEditor.cs" />
     <Compile Include="UIBaseExp.cs" />
     <Compile Include="DefaultControlsOverwrite.cs" />
     <Compile Include="MenuOptionOverwrite.cs" />
