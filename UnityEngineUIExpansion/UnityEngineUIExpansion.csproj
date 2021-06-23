@@ -44,6 +44,8 @@
     <Compile Include="DefaultControlsOverwrite.cs" />
     <Compile Include="MenuOptionOverwrite.cs" />
     <Compile Include="SetPropertyUtility.cs" />
+    <Compile Include="TextUtils.cs" />
+    <Compile Include="ArabicSupport.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
